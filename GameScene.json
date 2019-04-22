@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":1280,"height":960},"compId":2,"child":[{"type":"View","props":{"top":0,"right":0,"name":"layer_window","left":0,"bottom":0},"compId":4},{"type":"View","props":{"top":0,"right":0,"name":"layer_modal","left":0,"bottom":0},"compId":5},{"type":"Script","props":{"runtime":"Logic/GameScene.js"},"compId":11}],"loadList":[],"loadList3D":[]}

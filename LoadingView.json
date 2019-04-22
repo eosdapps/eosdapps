@@ -1,0 +1,1 @@
+{"type":"View","props":{"width":1280,"runtime":"View/LoadingView.js","height":960},"compId":2,"child":[{"type":"Image","props":{"y":480,"x":640,"width":200,"skin":"game/加载中.png","rotation":0,"name":"img","height":200,"anchorY":0.5,"anchorX":0.5},"compId":3}],"loadList":["game/加载中.png"],"loadList3D":[]}

@@ -1,0 +1,1 @@
+{"type":"View","props":{"y":0,"x":0,"width":1280,"runtime":"View/TipView.js","height":960,"anchorY":0,"anchorX":0},"compId":2,"child":[{"type":"Label","props":{"y":480,"x":640,"wordWrap":false,"valign":"middle","text":"tip","name":"tip","fontSize":40,"color":"#000000","anchorY":0.5,"anchorX":0.5,"align":"center"},"compId":3}],"loadList":[],"loadList3D":[]}
